@@ -1,0 +1,11 @@
+{
+    "description": "Personal portfolio site of Jishnu",
+    "repo": "https://github.com/j-iv/j-iv.github.io",
+    "owner": {
+        "username": "j-iv",
+        "email": "this.is.real.jishnu@gmail.com"
+    },
+    "record": {
+        "CNAME": "j-iv.github.io"
+    }
+} 
